@@ -1,4 +1,4 @@
-# Trivy End-to-End Practical Guide
+# Trivy Document
 
 ## Overview
 
